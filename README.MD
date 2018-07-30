@@ -1,15 +1,14 @@
-# React-Codelab-Project
+# React-TimeLine
 
 ## About
 
-React-Codelab-Project is a Single-page infinite-scrolling public memo app implemented using React.js, Redux, Express.js and MongoDB.
+React-TimeLine is a Single-page infinite-scrolling public memo app implemented using React.js, Redux, Express.js and MongoDB.
 
 ## Features
 - Authentication (Sign Up / Sign In)
 - Memo Creation / Manipulation (edit, delete, star)
 - User Search
 
-Preview: https://memo.vlpt.us/
 
 ## Following technologies are used
 - axios
@@ -47,5 +46,3 @@ npm install
 - `npm run development` Start server in development environment
 
 Express server runs on port 3000, and development server runs on port 4000.
-
-Tutorial on this project (in Korean): https://velopert.com/tag/reactcodelab
