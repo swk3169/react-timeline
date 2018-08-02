@@ -121,7 +121,7 @@ class Authentication extends React.Component {
             <div className="container auth">
                 <Link className="logo" to="/">PICUP</Link>
                 <div className="card">
-                    <div className="header blue white-text center">
+                    <div className="header pink white-text center">
                         <div className="card-content">{this.props.mode ? "LOGIN" : "REGISTER"}</div>
                     </div>
                     {this.props.mode ? loginView : registerView }

@@ -40,7 +40,7 @@ class Header extends React.Component {
         return (
             <div>
                 <nav>
-                    <div className="nav-wrapper blue darken-1">
+                    <div className="nav-wrapper pink lighten-4">
                         <Link to="/" className="brand-logo center">PICUP</Link>
 
                         <ul>
